@@ -24,7 +24,7 @@ namespace MyTest02.Controllers
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact page.";
+            ViewData["Message"] = "Your contact page.11111";
 
             return View();
         }
